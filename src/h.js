@@ -1,6 +1,6 @@
 const user = {
     firstName: 'Arle',
-    lastName: 'Morales Ortiz'
+    lastName: 'Morales Ortiz jjjjjj'
 };
 
 function formatName(user) {
